@@ -78,7 +78,7 @@ function App() {
               finance assets faster, cheaper, and easier than ever before.
               Working at a startup has given me experience developing back-end
               APIs, writing front-end components, and dockerizing microservices;
-              Some of my contributions over the last two years, have been
+              Some of my contributions over the last two years, include
               developing Brightvines blockchain service, writing a csv document
               parser, and integrating resource sharing into our main
               application.
