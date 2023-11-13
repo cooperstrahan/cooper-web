@@ -25,11 +25,7 @@ function App() {
     }
 
     // Cleanup observer on component unmount
-    return () => {
-      if (fadeTextRef.current) {
-        observer.unobserve(fadeTextRef.current);
-      }
-    };
+    return () => {};
   }, []); // Run once on component mount
 
   return (
