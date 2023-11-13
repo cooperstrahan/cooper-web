@@ -57,7 +57,6 @@ function App() {
           </div>
         </div>
       </header>
-
       <div className="work" id="work">
         <h1>Work</h1>
         <div className="work-content">
@@ -168,16 +167,19 @@ function App() {
         </div>
       </div>
       <div className="contact" id="contact">
-        <h1>Contact</h1>
-        <div className="contact-content">
-          <div className="contact-container">
+        <div className="contact-container">
+          <h1>Contact</h1>
+          <div>
             <div className="contact-content">
               <img src="/gmail.png" alt="gmail" className="contact-img" />
               <p>cooperstrahan@gmail.com</p>
             </div>
             <div className="contact-content">
-              <img src="/linkedin.webp" alt="linkein" className="contact-img" />
-
+              <img
+                src="/linkedin.webp"
+                alt="linkedin"
+                className="contact-img"
+              />
               <p>
                 <a href="https://www.linkedin.com/in/cooperstrahan/">
                   cooperstrahan
