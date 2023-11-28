@@ -170,30 +170,19 @@ function App() {
         <div className="contact-container">
           <h1>Contact</h1>
           <div>
-            <div className="contact-content">
+            <a href="mailto: cooperstrahan@gmail.com">
               <img src="/gmail.png" alt="gmail" className="contact-img" />
-              <p>cooperstrahan@gmail.com</p>
-            </div>
-            <div className="contact-content">
+            </a>
+            <a href="https://www.linkedin.com/in/cooperstrahan/">
               <img
                 src="/linkedin.webp"
                 alt="linkedin"
                 className="contact-img"
               />
-              <p>
-                <a href="https://www.linkedin.com/in/cooperstrahan/">
-                  cooperstrahan
-                </a>
-              </p>
-            </div>
-            <div className="contact-content">
+            </a>
+            <a href="https://www.github.com/cooperstrahan/">
               <img src="/github.png" alt="github" className="contact-img" />
-              <p>
-                <a href="https://www.github.com/cooperstrahan/">
-                  cooperstrahan
-                </a>
-              </p>
-            </div>
+            </a>
           </div>
         </div>
       </div>
